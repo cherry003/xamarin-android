@@ -9,7 +9,7 @@ trigger:
 # External yaml template files
 resources:
   repositories:
-  - repository: xamarin-android
+  - repository: yaml
     type: github
     name: xamarin/yaml-templates
     ref: refs/heads/master
