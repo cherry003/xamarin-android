@@ -9,11 +9,11 @@ trigger:
 # External yaml template files
 resources:
   repositories:
-  - repository: yaml
+  - repository: xamarin-android
     type: github
     name: xamarin/yaml-templates
     ref: refs/heads/master
-    endpoint: xamarin
+    endpoint: GitHub connection 1
 
 # Global variables
 variables:
