@@ -11,7 +11,7 @@ resources:
   repositories:
   - repository: yaml
     type: github
-    name: xamarin-android
+    name: xamarin/xamarin-android
     ref: refs/heads/master
     endpoint: GitHub connection 1
 
