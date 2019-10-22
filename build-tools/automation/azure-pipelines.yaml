@@ -11,7 +11,7 @@ resources:
   repositories:
   - repository: yaml
     type: github
-    name: xamarin/yaml-templates
+    name: xamarin-android/yaml-templates
     ref: refs/heads/master
     endpoint: GitHub connection 1
 
